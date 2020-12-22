@@ -4,10 +4,6 @@ function App() {
 
   const title = "My awsome Blog"
   const likes = 50
-  const person = {
-    name: "Anas",
-    age: 22
-  }
 
   return (
     <div className="App">
