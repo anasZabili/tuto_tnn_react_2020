@@ -1,0 +1,23 @@
+{
+  "blogs": [
+    {
+      "title": "Super evenement",
+      "body": "creme bruler ce soir",
+      "author": "Anas",
+      "id": 1
+    },
+    {
+      "title": "Mauvaise nouvelle",
+      "body": "plus de creme bruler ce soir",
+      "author": "Anis",
+      "id": 2
+    },
+    {
+      "title": "Re mauvaise nouvelle",
+      "body": "on a retrouvé de la creme bruler ce soir",
+      "author": "Anas",
+      "id": 3
+    }
+  ]
+
+}
